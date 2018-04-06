@@ -1,3 +1,3 @@
 # mistakeslist.github.io
 mistakeslist official website
-website
+https://cui0v0.github.io/webmistakeslist/
